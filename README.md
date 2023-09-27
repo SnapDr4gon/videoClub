@@ -33,7 +33,7 @@ https://videoclub-2lo5f56t.b4a.run/
 
 ## Licencia
 
-Jared Flores Martinez
-353391
-Universidad Autonoma de Chihuahua
-Web Platforms
+- Jared Flores Martinez
+- 353391
+- Universidad Autonoma de Chihuahua
+- Web Platforms
