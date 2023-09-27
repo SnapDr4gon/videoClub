@@ -20,8 +20,8 @@ Primera parte de la aplicacion del video club desplegada en un PaaS (Back4App).
 Si desea clonar el repositorio(aunque no es necesario ya que la app ya esta desplegada):
 
 ```bash
-git clone git@github.com:SnapDr4gon/tablaRestFull.git
-cd tablaRestFull
+git clone git@github.com:SnapDr4gon/videoClub.git
+cd videoClub
 npm install
 ```
 
