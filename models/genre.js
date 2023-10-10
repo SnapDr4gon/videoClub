@@ -1,6 +1,6 @@
 module.exports = (sequelize, type) => {
     const Genre = sequelize.define('Genres', {
-        id: {type: type.INTEGER, primeryKey: true, autoIncrement: true},
+        id: {type: type.INTEGER, primaryKey: true, autoIncrement: true},
         description: type.STRING,
         status: type.BOOLEAN
     });
